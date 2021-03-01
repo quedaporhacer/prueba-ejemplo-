@@ -4,6 +4,6 @@
 	<title>GitHib</title>
 </head>
 <body>
-	<p>probando GitHub</p>
+	<p>probando GitHub modificado</p>
 </body>
 </html>
